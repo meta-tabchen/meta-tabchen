@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on on TAL(NYSE:TAL)
-- 📫 How to reach me: [Blog](https://blog.tabchen.com/about/), [知乎](https://www.zhihu.com/people/meta-tabchen)
+- 📫 How to reach me: [Website](http://www.tabchen.com/) / [Blog](https://blog.tabchen.com/about/) / [知乎](https://www.zhihu.com/people/meta-tabchen)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=meta-tabchen&show_icons=true&count_private=true&theme=gotham)
